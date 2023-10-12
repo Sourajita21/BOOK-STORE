@@ -1,26 +1,24 @@
-# Book Store MERN stack project
 
-## Lessons
 
-- [x] Lesson 01: Create Node.js project from scratch
-- [x] Lesson 02: Create our first Http Route
-- [x] Lesson 03: Add MongoDB and mongoose to node js
-- [x] Lesson 04: Create Book model with mongoose
-- [x] Lesson 05: Save a new Book with mongoose
-- [x] Lesson 06: Get All Books with mongoose
-- [x] Lesson 07: Get One Book by id with mongoose
-- [x] Lesson 08: Update a Book with mongoose
-- [x] Lesson 09: Delete a book with mongoose
-- [x] Lesson 10: Refactor Node js with express router
-- [x] Lesson 11: CORS policy in Node js and Express js
-- [x] Lesson 12: Create React project, Vite, Tailwind CSS
-- [x] Lesson 13: SPA and Add react router dom
-- [x] Lesson 14: Show Books List in React
-- [x] Lesson 15: Show Book Details in React
-- [x] Lesson 16: Create Book in React
-- [x] Lesson 17: Edit Book in React
-- [x] Lesson 18: Delete Book in React
-- [x] Lesson 19: Show Books List as Card
-- [x] Lesson 20: Make Book Card a single component
-- [x] Lesson 21: Add Book Modal
-- [x] Lesson 22: Improve User Experience (UX) with beautiful alert
+ Point 01: Create Node.js project from scratch
+ point 02: Create our first Http Route
+ point 03: Add MongoDB and mongoose to node js
+ point 04: Create Book model with mongoose
+ point 05: Save a new Book with mongoose
+point 06: Get All Books with mongoose
+point 07: Get One Book by id with mongoose
+point 08: Update a Book with mongoose
+point 09: Delete a book with mongoose
+point 10: Refactor Node js with express router
+point 11: CORS policy in Node js and Express js
+point 12: Create React project, Vite, Tailwind CSS
+point 13: SPA and Add react router dom
+point 14: Show Books List in React
+point 15: Show Book Details in React
+point 16: Create Book in React
+point 17: Edit Book in React
+point 18: Delete Book in React
+point 19: Show Books List as Card
+point 20: Make Book Card a single component
+point 21: Add Book Modal
+point 22: Improve User Experience (UX) with beautiful alert
